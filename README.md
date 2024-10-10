@@ -1,5 +1,5 @@
 # platform_base
-Custom Platform for Management of Vehicle related data, HAM related data, CoSpend related data, Food Recipes and more.
+Custom Platform (WebApp) for Management of Vehicle related data, HAM related data, CoSpend related data, Food Recipes and more.
 
 This is basically a test at building a Platform/System with help of ChatGPT.  A test at how good and how secure of a coder ChatGPT is.
 
