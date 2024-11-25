@@ -15,3 +15,5 @@ Blog
 Forums
 
 Of course there are better utilized Open Source Software solutions out there, but they also come with security risks that I am not too keen on.  (Word Press and Drupal)
+
+FYI, Currently the code-set will not do much.  I am building and coding this on my "free time" whenever that is)... 
